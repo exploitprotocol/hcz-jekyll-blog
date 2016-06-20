@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Sharkfest 2013 Challenge Solution
+title:  "Sharkfest 2013 Challenge Solution"
 date:   2014-07-13 13:50:39
 categories: jekyll
 ---
-
 # Sharkfest 2013 Challenges Solution
 
 Hello Folks, I have Made Solution Of Sharkfest 2013 Challenges. You can have the challenges at <http://www.wiresharktraining.com/sharkfest2013challenge.html>  
