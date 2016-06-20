@@ -1,14 +1,9 @@
-title: Sharkfest 2013 Challenges Solution
-link: http://localhost/sharkfest-2013-challenges-solution/
-author: exploitprotocol
-description: 
-post_id: 78
-created: 2014/07/13 22:18:40
-created_gmt: 2014/07/13 22:18:40
-comment_status: closed
-post_name: sharkfest-2013-challenges-solution
-status: publish
-post_type: post
+---
+layout: post
+title:  "Sharkfest 2013 Challenge Solution
+date:   2014-07-13 13:50:39
+categories: jekyll
+---
 
 # Sharkfest 2013 Challenges Solution
 
