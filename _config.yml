@@ -47,7 +47,7 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
+url: "https://exploitprotocol.github.io/hcz-jekyll-blog"
 baseurl: "/hcz-jekyll-blog"
 paginate: 20
 per_page: 20
